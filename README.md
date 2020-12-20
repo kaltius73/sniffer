@@ -1,1 +1,2 @@
-# sniffer
+USO
+python sniffer.py
